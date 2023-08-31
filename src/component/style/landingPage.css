@@ -1,0 +1,50 @@
+.Applandingpage {
+  background: url("../../assets/images/backgroundla.jpeg");
+  background-size: cover;
+  height: 120vh;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  height: 60vh;
+}
+
+.wrapper1 {
+  margin-top: 300px;
+  margin-left: 0px;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 3px 3px black;
+  letter-spacing: 4px;
+  margin-left: 100px;
+}
+
+.title1 {
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 1;
+  text-shadow: 1px 1px black;
+  margin-top: 20px;
+  margin-left: 100px;
+  letter-spacing: 3px;
+}
+
+.tombol {
+  font-weight: 800;
+  font-size: 20px;
+  text-shadow: 1px 1px black;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.Duadoctor {
+  width: 100%;
+  height: 70vh;
+  margin-bottom: 100px;
+  margin-top: 200px;
+}

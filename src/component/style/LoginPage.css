@@ -1,0 +1,115 @@
+body {
+    background: rgba(185, 189, 193, 0.96);
+    height: 120vh;
+}
+
+.login {
+    color: #000;
+    font-family: Open Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 35px;
+}
+
+.captionleft {
+    color: #000;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 25px;
+}
+.textsignup {
+    margin-top: 10px;
+    display: inline-flex;
+    justify-content: center;
+    margin-left: 150px;
+
+}
+
+.signup {
+    margin-left: 10px;
+    color: #0019FD;
+    font-weight: 500;
+}
+
+
+
+.captionright {
+    color: #FFF;
+    font-family: Ubuntu;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.captionright2 {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.WrapperLogin {
+    background-color: blueviolet;
+    display: flex;
+    height: 100vh;
+    
+    
+}
+
+.WrapperLeft {
+    justify-content: start;
+    height: 119vh;
+    width: 50%;
+}
+
+.WrapperLeftRegist {
+    width: 50%;
+    height: 130vh
+}
+
+.WrapperRight {
+    justify-content: end;
+    height: 119vh;
+    width: 50%;
+}
+
+.WrapperRightRegist {
+    width: 50%;
+    height: 130vh
+}
+
+.backgroundform {
+    background-color: #EFEFEF;
+    height: 130vh;
+
+}
+
+.backgroundRight {
+    background-color: #2B3FA5;
+}
+
+.formlogin {
+    border-radius: 50px;
+    background-color: #D9D9D9;
+    
+}
+
+.doctorimage {
+    width: 350px;
+    height: 350px;
+    flex-shrink: 0;
+    border-radius: 50px;
+
+}
